@@ -73,11 +73,14 @@ int main()
         cout <<"\n\aYou're Coffee is ready!\n\n";
         cout <<"Item Name"<<setw(8)<<"Qty"<<setw(8)<<"Price"<<endl;
         cout <<"Coffee Latte"<<setw(5)<<"1"<<setw(8)<< priceOfLatte;
-        //TODO: Make code modulars
     }else if (selectedCoffee == 2) {
-        cout <<"Comming sooooooooooooooon";
+        cout << "\n\aYou're Coffee is ready!\n\n";
+        cout << "Item Name" << setw(8) << "Qty" << setw(8) << "Price" << endl;
+        cout << "Coffee Americano" << setw(5) << "1" << setw(8) << priceOfAmericano;
     }else if (selectedCoffee == 3) {
-        cout << "Sardi mein cold brew nhi peta balka \"THandi\" Cold Drink peta hain :)";
+        cout << "\n\aYou're Coffee is ready!\n\n";
+        cout << "Item Name" << setw(8) << "Qty" << setw(8) << "Price" << endl;
+        cout << "Coffee Cold Brew" << setw(5) << "1" << setw(8) << priceOfColdBrew;
     }
 
     return 0;

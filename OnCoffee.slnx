@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="OnCoffee.vcxproj" />
+  <Project Path="OnCoffee.vcxproj" Id="dd907f81-722f-4fb3-bfc2-cc396b156964" />
 </Solution>
